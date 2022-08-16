@@ -1,4 +1,4 @@
-package com.Library;
+package Library;
 public class Book {
     private String title;
     private int YOP;
